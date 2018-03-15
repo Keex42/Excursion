@@ -1,7 +1,12 @@
 body {
   background-color: Black;
   text-align: center;
-  font-family: Arial;
-  font-weight: bold;
+  font-family: Verdana;
+  font-weight: normal;
   color: White;
+  font-size: 50px;
+}
+a {
+  color: Aquamarine;
+  font-size: 16px;
 }
